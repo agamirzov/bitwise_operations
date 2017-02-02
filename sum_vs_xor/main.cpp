@@ -1,12 +1,4 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
-#include <stdexcept>
-#include <sstream>
-#include <iostream>
-#include <fstream>
 
 using namespace std;
 

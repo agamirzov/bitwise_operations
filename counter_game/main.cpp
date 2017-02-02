@@ -1,13 +1,4 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
-#include <stdexcept>
-#include <sstream>
-#include <iostream>
-#include <fstream>
-#include <cstdint>
 
 using namespace std;
 
@@ -76,7 +67,7 @@ int main() {
         if (louise)
             cout << "Louise"  << endl;
         else
-            cout << "Richard " << endl;
+            cout << "Richard" << endl;
     }
 
     return 0;
